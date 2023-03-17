@@ -4,10 +4,13 @@
 ## Dữ liệu
 Dữ liệu số ca nhiễm COVID-19 ở Việt Nam (27/04 - 10/01/2022)
 
-## Phương pháp:
+## Phương pháp thực nghiệm
 - Mô hình hồi quy tuyến tính đa thức (Polynomial linear regression)
 - Mô hình sử dụng các hàm toán học phi tuyến
     - Mô hình hàm mũ (Exponential model)
     - Mô hình logistics (Generalized logistics)
     - Mô hình Gompertz
+
+## Code
+Xem file [`exp.ipynb`](./exp.ipynb)
 
